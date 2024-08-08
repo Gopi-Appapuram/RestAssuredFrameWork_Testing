@@ -1,0 +1,8 @@
+{
+    "metaTitle": {"en-US": "Bags For Sale | Academy"},
+    "name": {"en-US": "Bags"},
+    "externalId": "Bags and More",
+    "metaDescription": [{"en-US": "Whether you are on the way to school, a work trip, or vacation a great bag is necessary. Shop Academy's collection of bags, duffel bags, crossbody bags and more."}],
+    "slug": {"en-US": "bags"},
+    "key": "Bags_and_More"
+}

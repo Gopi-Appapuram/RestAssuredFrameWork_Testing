@@ -1,0 +1,49 @@
+{
+            "id": "a87b2d1b-4d07-4560-8b4b-2fd44bd5106b",
+            "version": 4,
+            "versionModifiedAt": "2024-05-30T07:35:26.044Z",
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2024-05-23T16:28:27.380Z",
+            "lastModifiedAt": "2024-05-30T07:35:26.044Z",
+            "lastModifiedBy": {
+                "isPlatformClient": true,
+                "attributedTo": {
+                    "clientId": "lY42nk3zNFlQ0tjq4-0TCRt_",
+                    "source": "Import"
+                }
+            },
+            "createdBy": {
+                "isPlatformClient": true,
+                "attributedTo": {
+                    "clientId": "lY42nk3zNFlQ0tjq4-0TCRt_",
+                    "source": "Import"
+                }
+            },
+            "key": "Bags_and_More",
+            "name": {
+                "en-US": "Bags"
+            },
+            "slug": {
+                "en-US": "bags"
+            },
+            "ancestors": [],
+            "orderHint": "0.01",
+            "externalId": "Bags and More",
+            "metaTitle": {
+                "en-US": "Bags For Sale | Academy"
+            },
+            "metaDescription": [{
+                "en-US": "Whether you are on the way to school, a work trip, or vacation a great bag is necessary. Shop Academy's collection of bags, duffel bags, crossbody bags and more."
+            }],
+            "custom": {
+                "type": {
+                    "typeId": "type",
+                    "id": "dff622fe-edbd-4acd-800d-5098dcbb2768"
+                },
+                "fields": {
+                    "category_image": "https://academy.scene7.com/is/image/academy/20542610",
+                    "published": true
+                }
+            },
+            "assets":[]
+}
